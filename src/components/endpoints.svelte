@@ -23,6 +23,8 @@
         method === 'DELETE' && ' text-red-600 dark:text-red-500 bg-red-400/20 dark:bg-red-400/20'
       )}
     >
+
+    
       {method}
     </p>
     <div class="flex flex-col space-y-0 m-0">
